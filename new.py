@@ -2,8 +2,8 @@ import os
 import random
 from datetime import datetime, timedelta
 
-# Repository path (update this to your repo's path)
-REPO_PATH = "path_to_your_git_repo"
+# Repository path (update this to your local repository's path)
+REPO_PATH = "D:\SEMVII\Resume Project\emp\new"
 
 # Set the range of months (April to August)
 MONTHS = [4, 5, 6, 7, 8]
